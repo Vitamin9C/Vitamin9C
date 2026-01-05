@@ -8,6 +8,8 @@
  
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Vitamin9C&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats-git-master-vitamin99ccs-projects.vercel.app/api/top-langs/?username=Vitamin9C&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=23WS_DeepLearning_FAU&limits=3)
-![](https://github-readme-stats-git-master-vitamin99ccs-projects.vercel.app/api?username=Vitamin9C&limit=3&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats-sigma-ten-jd7pezqtmb.vercel.app/api/top-langs/?username=Vitamin9C&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=23WS_DeepLearning_FAU&limits=3) <br/>
+
+![](https://github-readme-stats-sigma-ten-jd7pezqtmb.vercel.app/api?username=Vitamin9C&limit=3&theme=dark&combine_all_yearly_contributions=true) <br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Vitamin9C&theme=neon&hide_border=false)
