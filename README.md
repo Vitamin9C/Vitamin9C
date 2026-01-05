@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **uutil/coreutils**<br><br>
-- 🌱 I'm currently learning **Rust and Typescript**<br><br>
-- 👯 I'm looking to collaborate on **nushell**<br><br>
-- 👨‍💻 Know more about me at **[https://vitamin99.cc](https://vitamin99.cc)**<br>
+- 🔭 I'm currently working on **uutil/coreutils**
+- 🌱 I'm currently learning **Rust and Typescript**
+- 👯 I'm looking to collaborate on **nushell**
+- 👨‍💻 Know more about me at **[https://vitamin99.cc](https://vitamin99.cc)**
 
 
 # Tech Stack:
