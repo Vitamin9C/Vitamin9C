@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **uutil/coreutils**<br><br>- 🌱 I'm currently learning **Rust and Typescript**<br><br>- 👯 I'm looking to collaborate on **nushell**<br><br>- 👨‍💻 All of my projects are available at **[https://vitamin99.cc](https://vitamin99.cc)**<br>
+- 🔭 I'm currently working on **uutil/coreutils**<br><br>- 🌱 I'm currently learning **Rust and Typescript**<br><br>- 👯 I'm looking to collaborate on **nushell**<br><br>- 👨‍💻 Know more about me at **[https://vitamin99.cc](https://vitamin99.cc)**<br>
 
 
 # Tech Stack:
@@ -10,6 +10,6 @@
 
 ![](https://github-readme-stats-sigma-ten-jd7pezqtmb.vercel.app/api/top-langs/?username=Vitamin9C&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=23WS_DeepLearning_FAU&limits=3) <br/>
 
-![](https://github-readme-stats-sigma-ten-jd7pezqtmb.vercel.app/api?username=Vitamin9C&limit=3&theme=dark&combine_all_yearly_contributions=true) <br/>
+![](https://github-readme-stats-sigma-ten-jd7pezqtmb.vercel.app/api?username=Vitamin9C&limit=3&theme=neon&combine_all_yearly_contributions=true) <br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Vitamin9C&theme=neon&hide_border=false)
