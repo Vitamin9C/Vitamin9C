@@ -3,7 +3,7 @@ I'm an enthusiastic AI engineer aiming at fullstack / a language nerd with curio
 - 🔭 I'm currently working on **uutil/coreutils**
 - 🌱 I'm currently learning **Rust and Typescript**
 - 👯 I'm looking to collaborate on **nushell**
-- 👨‍💻 Know more about me at **[https://vitamin99.cc](https://vitamin99.cc)**
+- 👨‍💻 Know more about me at **[my personal website](https://vitamin99.cc)**
 
 
 # 📚 Tech Stack:
