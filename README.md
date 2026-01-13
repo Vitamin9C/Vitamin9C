@@ -16,4 +16,3 @@ I'm an enthusiastic AI engineer aiming at fullstack / a language nerd with curio
 
 ![](https://github-readme-stats-sigma-ten-jd7pezqtmb.vercel.app/api?username=Vitamin9C&limit=3&theme=neon&combine_all_yearly_contributions=true) <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Vitamin9C&theme=neon&hide_border=false)
