@@ -1,8 +1,7 @@
 # 💫 About Me:
 I'm an enthusiastic AI engineer aiming at fullstack / a language nerd with curiosity.
-- 🔭 I'm currently working on **uutil/coreutils**
-- 🌱 I'm currently learning **Rust and Typescript**
-- 👯 I'm looking to collaborate on **nushell**
+- 🔭 I'm currently working on **TaggerNews** and **nushell**
+- 🌱 I'm currently learning **Rust** while deepening my understanding of **C++**
 - 👨‍💻 Know more about me at **[my personal website](https://vitamin99.cc)**
 
 
