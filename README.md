@@ -1,8 +1,6 @@
 # 💫 About Me:
-I'm an enthusiastic AI engineer aiming at fullstack / a language nerd with curiosity.
-- 🔭 I'm currently working on **TaggerNews** and **nushell**
-- 🌱 I'm currently learning **Rust** while deepening my understanding of **C++**
-- 🤖 I'm currently building human-out-of-the-loop AI assembly line for research, and for coding in high-level lanaguages (Front-end, Python) (See **Fordex** repos)
+I'm an enthusiastic NLP Researcher
+- 🔭 I'm currently working on Diffusion Language Model
 - 👨‍💻 Know more about me at **[my personal website](https://vitamin99.cc)**
 
 
